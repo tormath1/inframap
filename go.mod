@@ -3,7 +3,7 @@ module github.com/cycloidio/inframap
 go 1.15
 
 require (
-	github.com/adrg/xdg v0.3.3
+	github.com/adrg/xdg v0.4.0
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/awalterschulze/gographviz v2.0.3+incompatible
 	github.com/chr4/pwgen v1.1.0
@@ -35,7 +35,6 @@ require (
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4 // indirect
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602 // indirect
-	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/tools v0.1.0
 	google.golang.org/appengine v1.6.7 // indirect
